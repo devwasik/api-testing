@@ -1,0 +1,19 @@
+{
+  "name": "api-testing",
+  "version": "1.0.0",
+  "description": "Basic sample repo for how to configure testing against an ExpressJS API using Jest and supertest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devwasik/api-testing.git"
+  },
+  "author": "Nicholas Wasik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devwasik/api-testing/issues"
+  },
+  "homepage": "https://github.com/devwasik/api-testing#readme"
+}
